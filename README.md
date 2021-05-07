@@ -6,6 +6,8 @@ However, do be careful, press the wrong button, you could lose everything...
 
 ## Live Demo
 https://uclei.herokuapp.com/login
+User: morty137
+Password: 123456
 
 ## Installation
 
