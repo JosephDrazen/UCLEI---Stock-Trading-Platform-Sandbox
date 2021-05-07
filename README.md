@@ -4,6 +4,9 @@ UCLEI is a stock trading simulation website that provides a safe, easy-to-use sa
 Simply create an account and you will be welcomed to the website and free to explore the excitement of stocking trading without consequence!
 However, do be careful, press the wrong button, you could lose everything...
 
+## Live Demo
+https://uclei.herokuapp.com/login
+
 ## Installation
 
 To ensure a proper installation please verify that your system has Node.js, npm, react-app, and Express installed correctly. For more instructions on this please refer to: https://nodejs.org/en/ and https://reactjs.org/.
