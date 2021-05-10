@@ -16,7 +16,7 @@ To ensure a proper installation please verify that your system has Node.js, npm,
 <h3>Locally:</h3>
 If running locally you will also need to do the following:
 
-git clone https://github.com/anthony-y-zhu14/UCLEI---Stock-Trading-Platform-Sandbox
+git clone https://github.com/JosephDrazen/UCLEI-Stock-Trading
 
 ```bash
 cd /UCLEI---Stock-Trading-Platform-Sandbox/app/server/server
